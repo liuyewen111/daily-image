@@ -8,6 +8,20 @@
 
 ---
 
+## 📌 关于本仓库说明
+
+此仓库是 Fork 自 [willow-god](https://github.com/willow-god) 的 [daily-image](https://github.com/willow-god/daily-image) 项目。
+
+## 🙏 支持原项目
+如果你觉得这个项目有帮助，请：
+
+- 前往 👉 [原仓库主页](https://github.com/willow-god/daily-image)
+- ⭐️ 给原作者点个 Star
+- 考虑 Fork 原仓库进行支持
+
+💡 本 Fork 仓库可能包含个人修改，但不保证及时同步原仓库更新。
+建议直接使用原版获取最新功能和修复。
+
 ## ✨ 功能亮点
 
 - 📅 **每日自动更新**：每天定时从 Bing 官方源抓取高清壁纸（2560x1600 或 1920x1080）。
@@ -51,7 +65,7 @@
 
 ## 🌍 在线预览地址
 
-- 🔗 **EO Pages 页面**：[https://bing.liushen.fun/](https://bing.liushen.fun/)
+- 🔗 **EO Pages 页面**：[https://bing.284628.xyz](https://bing.284628.xyz)
 
 ---
 
