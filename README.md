@@ -12,6 +12,8 @@
 
 此仓库是 Fork 自 [willow-god](https://github.com/willow-god) 的 [daily-image](https://github.com/willow-god/daily-image) 项目。
 
+---
+
 ## 🙏 支持原项目
 如果你觉得这个项目有帮助，请：
 
@@ -21,6 +23,8 @@
 
 💡 本 Fork 仓库可能包含个人修改，但不保证及时同步原仓库更新。
 建议直接使用原版获取最新功能和修复。
+
+---
 
 ## ✨ 功能亮点
 
